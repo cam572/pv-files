@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Peak Vitality//Webinar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:pv-gut-webinar-20261116@peakvitalitydenver.com
+DTSTAMP:20261109T000000Z
+DTSTART:20261117T010000Z
+DTEND:20261117T023000Z
+SUMMARY:Free Class: The Truth About Gut Health\, Belly Fat & Fatigue
+DESCRIPTION:Live with Dr. Dan Kellams.\n7 PM Central / 6 PM Mountain / 8 PM
+  Eastern / 5 PM Pacific.\n\nYour personal join link is in your confirmatio
+ n email from webinarinfo@webinarjam.net\, and in a text from Peak Vitality
+  if you opted in to texts. Search your inbox for "Gut Health" if you can't
+  find it.
+LOCATION:Online - personal join link in your email or text
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gut health class starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
